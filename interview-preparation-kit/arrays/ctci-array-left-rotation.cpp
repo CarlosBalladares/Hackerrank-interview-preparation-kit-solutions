@@ -18,6 +18,8 @@ vector<int> rotLeft(vector<int> a, int d) {
     }
     return b;
 }
+
+
 // ======== HACKERRANK JUNK =========
 int main()
 {
