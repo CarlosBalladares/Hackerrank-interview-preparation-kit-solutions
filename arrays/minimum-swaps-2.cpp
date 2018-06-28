@@ -7,6 +7,9 @@ vector<string> split_string(string);
 // Complete the minimumSwaps function below.
 // Hackerrank Arrays: Minimum Swaps 2 Solution
 // Solution runs in O(n)
+
+// ======== SOLUTION =========
+
 int minimumSwaps(vector<int> arr) {
     int n = arr.size();
     int visited[n]={0};
