@@ -5,7 +5,7 @@ using namespace std;
 vector<string> split_string(string);
 
 // Complete the rotLeft function below.
-// Hackerrank Arrays: Left Rotation
+// Hackerrank Arrays: Left Rotation Solution
 
 // ======== Solution =========
 vector<int> rotLeft(vector<int> a, int d) {
