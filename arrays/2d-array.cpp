@@ -20,12 +20,8 @@ int hourglassSum(vector<vector<int>> arr) {
             temp_sum2 = arr[i+1][j+1];
             temp_sum3 = arr[i+2][j]+arr[i+2][j+1]+arr[i+2][j+2];
             t_sum =temp_sum1+temp_sum2+temp_sum3;
-            if(i==0 && j==0){
+            if(i==0 && j==0 || t_sum >sum)
                 sum = t_sum;
-            }else if(t_sum >sum){
-                sum = t_sum;
-            }
-
         }
     }
     return sum;
