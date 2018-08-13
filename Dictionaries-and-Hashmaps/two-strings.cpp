@@ -3,6 +3,7 @@
 using namespace std;
 
 vector<string> split_string(string);
+const char NULL_CHAR = '\0';
 
 // Hackerrank Two Strings Solution
 // Runs in O(n+m)
@@ -12,7 +13,6 @@ string twoStrings(string s1, string s2) {
     int m;
     const char* char_array1;
     const char* char_array2;
-    const char NULL_CHAR = '\0';
     unordered_map<char, char> map;
 
     n = s1.size();
