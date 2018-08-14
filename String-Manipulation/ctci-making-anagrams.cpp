@@ -32,7 +32,7 @@ int makeAnagram(string a, string b) {
 
 }
 
-// ======== SOLUTION =========
+// ======== HACKERRANK JUNK =========
 int main()
 {
     ofstream fout(getenv("OUTPUT_PATH"));
