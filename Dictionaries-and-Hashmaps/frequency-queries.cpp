@@ -28,12 +28,9 @@ vector<int> freqQuery(vector<vector<int>> queries) {
         type = query[0];
         switch(type){
             case 1:
-                current_count = count_map[ query[1] ];
-                if(current_count >= 0){  
-                    frequency_map[current_count]--;
-                    count_map[ query[1] ]++;
-                    frequency_map[count_map[ query[1] ]]++;
-                }
+                frequency_map[count_map[ query[1] ]]--;
+                count_map[ query[1] ]++;
+                frequency_map[count_map[ query[1] ]]++;
                 break;
             case 2:
                 current_count = count_map[ query[1] ];
