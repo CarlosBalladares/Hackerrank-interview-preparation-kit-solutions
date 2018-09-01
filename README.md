@@ -1,6 +1,7 @@
 # Hackerrank interview preparation kit solutions with explanations, see below
 My solutions to Hackerrank's interview preparation kit.
 This problem set is online as of June 2018
+# Explanations
 
 ## Dictionaries and hashmaps
 [Ransom Note Explanation](https://medium.com/carlosbf/hash-tables-ransom-note-solution-76ffe7b4d010)
