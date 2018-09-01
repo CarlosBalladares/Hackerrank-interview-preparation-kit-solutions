@@ -31,6 +31,7 @@ vector<int> freqQuery(vector<vector<int>> queries) {
                 frequency_map[count_map[ query[1] ]]--;
                 count_map[ query[1] ]++;
                 frequency_map[count_map[ query[1] ]]++;
+                
                 break;
             case 2:
                 current_count = count_map[ query[1] ];
