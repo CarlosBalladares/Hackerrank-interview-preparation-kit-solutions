@@ -4,4 +4,4 @@ This problem set is online as of June 2018
 
 
 
-This is work in progress expect daily updates.
+This is work in progress expect regular updates.
