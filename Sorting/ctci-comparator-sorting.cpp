@@ -1,5 +1,5 @@
 // Hackerrank Sorting: comparator Solution
-// Runs in O(n) where n is the length of string a
+// Runs in O(c) 
 // ======== SOLUTION =========
 class Checker{
 public:

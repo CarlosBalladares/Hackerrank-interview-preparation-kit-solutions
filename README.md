@@ -13,5 +13,9 @@ These are the problems for which I have written detailed explanations. I usually
 
 [Frequency Queries Explanation](https://medium.com/carlosbf/frequency-queries-solution-e776d6ac3aa6)
 
+## Sorting
+
+[Sorting: Comparator](https://medium.com/@carlosbf/sorting-comparator-solution-84f2c12e8c47)
+
 
 This is work in progress expect regular updates.
