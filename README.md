@@ -1,6 +1,9 @@
 # Hackerrank interview preparation kit solutions with explanations, see below
+Star if you found it useful.
 My solutions to Hackerrank's interview preparation kit.
-This problem set is online as of June 2018
+This problem set is online as of June 2018.
+
+
 # Detailed Explanations
 These are the problems for which I have written detailed explanations. I usually write these right after solving the problem, so I don't forget about it. If you still have questions open an issue or send me an email.
 
