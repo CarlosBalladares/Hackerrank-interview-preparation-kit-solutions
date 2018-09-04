@@ -5,7 +5,7 @@ This problem set is online as of June 2018.
 
 
 # Detailed Explanations
-These are the problems for which I have written detailed explanations. I usually write these right after solving the problem, so I don't forget about it. If you still have questions open an issue or send me an email.
+These are the problems for which I have written detailed explanations. I usually write these right after solving the problem. If you still have questions open an issue or send me an email.
 
 ## Dictionaries and hashmaps
 [Ransom Note Explanation](https://medium.com/carlosbf/hash-tables-ransom-note-solution-76ffe7b4d010)
