@@ -20,7 +20,7 @@ These are the problems for which I have written detailed explanations. I usually
 
 [Sorting: Comparator](https://medium.com/@carlosbf/sorting-comparator-solution-84f2c12e8c47)
 
-[Merge Sort: Counting Inversions](https://medium.com/@carlosbf/merge-sort-counting-inversions-solution-46a0b311b20)
+[Merge Sort: Counting Inversions](https://medium.com/@carlosbf/merge-sort-counting-inversions-solution-46a0b311b20a)
 
 
 This is work in progress expect regular updates.
