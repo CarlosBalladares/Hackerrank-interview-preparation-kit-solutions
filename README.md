@@ -18,9 +18,13 @@ These are the problems for which I have written detailed explanations. I usually
 
 ## Sorting
 
-[Sorting: Comparator](https://medium.com/@carlosbf/sorting-comparator-solution-84f2c12e8c47)
+[Sorting: Comparator Explanation](https://medium.com/@carlosbf/sorting-comparator-solution-84f2c12e8c47)
 
-[Merge Sort: Counting Inversions](https://medium.com/@carlosbf/merge-sort-counting-inversions-solution-46a0b311b20a)
+[Merge Sort: Counting Inversions Explanation](https://medium.com/@carlosbf/merge-sort-counting-inversions-solution-46a0b311b20a)
+
+## String manipulation
+
+[Sherlok and the valid Explanation](https://medium.com/@carlosbf/sherlock-and-the-valid-string-solution-8611ecc9e0d5)
 
 
 This is work in progress expect regular updates.
