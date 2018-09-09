@@ -24,7 +24,7 @@ These are the problems for which I have written detailed explanations. I usually
 
 ## String manipulation
 
-[Sherlok and the valid Explanation](https://medium.com/@carlosbf/sherlock-and-the-valid-string-solution-8611ecc9e0d5)
+[Sherlok and the valid string Explanation](https://medium.com/@carlosbf/sherlock-and-the-valid-string-solution-8611ecc9e0d5)
 
 
 This is work in progress expect regular updates.
