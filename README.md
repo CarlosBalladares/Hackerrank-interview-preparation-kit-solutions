@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="/assets/vec.svg">
+  <img width="460" height="300" src="logo.svg">
 </p>
 
 # Hackerrank interview preparation kit solutions with explanations, see below
