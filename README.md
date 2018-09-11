@@ -26,7 +26,7 @@ These are the problems for which I have written detailed explanations. I usually
 
 [Sherlok and the valid string Explanation](https://medium.com/@carlosbf/sherlock-and-the-valid-string-solution-8611ecc9e0d5)
 
-[Special palindromeagain Explanation](https://medium.com/carlosbf/special-palindrome-again-solution-80a31ef3c26c)
+[Special palindrome again Explanation](https://medium.com/carlosbf/special-palindrome-again-solution-80a31ef3c26c)
 
 
 This is work in progress expect regular updates.
