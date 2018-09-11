@@ -32,5 +32,6 @@ These are the problems for which I have written detailed explanations. I usually
 
 [Special palindrome again Explanation](https://medium.com/carlosbf/special-palindrome-again-solution-80a31ef3c26c)
 
+[Common child Explanation](https://medium.com/carlosbf/common-child-solution-2e3d6dfb2004)
 
 This is work in progress expect regular updates.
