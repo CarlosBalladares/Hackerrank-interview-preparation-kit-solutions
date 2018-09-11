@@ -2,7 +2,7 @@
   <img width="460" height="300" src="logo.svg">
 </p>
 
-# Hackerrank interview preparation kit solutions with explanations, see below
+# Hackerrank interview prep kit solutions with explanations, see below
 Star if you found it useful.
 My solutions to Hackerrank's interview preparation kit.
 This problem set is online as of June 2018.
