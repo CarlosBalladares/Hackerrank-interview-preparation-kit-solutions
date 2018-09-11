@@ -37,7 +37,7 @@ string isValid(string s) {
     
     return "YES";
 }
-// ======== SOLUTION =========
+// ======== HACKERRANK JUNK =========
 int main()
 {
     ofstream fout(getenv("OUTPUT_PATH"));
