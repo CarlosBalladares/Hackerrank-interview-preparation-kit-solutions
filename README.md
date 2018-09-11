@@ -1,4 +1,4 @@
-![Logo](/assets/vec.svg)
+![](/assets/vec.svg)
 
 # Hackerrank interview preparation kit solutions with explanations, see below
 Star if you found it useful.
