@@ -1,3 +1,5 @@
+![Logo](/assets/vec.svg)
+
 # Hackerrank interview preparation kit solutions with explanations, see below
 Star if you found it useful.
 My solutions to Hackerrank's interview preparation kit.
