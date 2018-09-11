@@ -1,5 +1,5 @@
 <p align="center">
-![](/assets/vec.svg){: .center-image}
+![](/assets/vec.svg)
 </p>
 
 # Hackerrank interview preparation kit solutions with explanations, see below
