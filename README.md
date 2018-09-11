@@ -1,4 +1,6 @@
+<p align="center">
 ![](/assets/vec.svg){: .center-image}
+</p>
 
 # Hackerrank interview preparation kit solutions with explanations, see below
 Star if you found it useful.
