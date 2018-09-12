@@ -38,4 +38,6 @@ These are the problems for which I have written detailed explanations. I usually
 
 [Greedy Florist explanation](https://medium.com/@carlosbf/greedy-florist-solution-cc9e7dda76d7)
 
+[Max min Explanation](https://medium.com/@carlosbf/max-min-solution-cecd440ceaad)
+
 This is work in progress expect regular updates.
