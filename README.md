@@ -34,4 +34,6 @@ These are the problems for which I have written detailed explanations. I usually
 
 [Common child Explanation](https://medium.com/carlosbf/common-child-solution-2e3d6dfb2004)
 
+[Greedy Florist explanation](https://medium.com/@carlosbf/greedy-florist-solution-cc9e7dda76d7)
+
 This is work in progress expect regular updates.
