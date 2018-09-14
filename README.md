@@ -40,4 +40,6 @@ These are the problems for which I have written detailed explanations. I usually
 
 [Max min Explanation](https://medium.com/@carlosbf/max-min-solution-cecd440ceaad)
 
+[Reverse Merge Shuffle explanation](https://medium.com/@carlosbf/reverse-shuffle-merge-solution-cfc99de8d5e8)
+
 This is work in progress expect regular updates.
