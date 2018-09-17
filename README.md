@@ -42,4 +42,7 @@ These are the problems for which I have written detailed explanations. I usually
 
 [Reverse Merge Shuffle explanation](https://medium.com/@carlosbf/reverse-shuffle-merge-solution-cfc99de8d5e8)
 
-This is work in progress expect regular updates.
+ ## Search
+ [Pairs explanation](https://medium.com/carlosbf/pairs-solution-998f6d03c25d)
+
+ This is a work in progress expect regular updates.
