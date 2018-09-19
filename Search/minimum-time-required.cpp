@@ -38,7 +38,7 @@ long compute_time_rec(vector<long> machines, long production_goal, long min_days
 
 
 // ======== BONUS  ========
-// Fixed stack recursive solution
+// Fixed-stack iterative solution
 long compute_time_iter(vector<long> machines, long production_goal, long min_days, long max_days){
     if(machines.size()==1) return max_days;
     
