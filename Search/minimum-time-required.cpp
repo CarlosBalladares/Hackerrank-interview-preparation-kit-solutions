@@ -21,7 +21,7 @@ long compute_time_rec(vector<long> machines, long production_goal, long min_days
         production+=floor(mid/machines[i]);
     
     if(production >= production_goal)
-        return min(mid, compute_time_rec(machines,production_goal, min_days, mid));
+        return compute_time_rec(machines,production_goal, min_days, mid);
     else
         return compute_time_rec(machines, production_goal, mid+1, max_days);
 }
