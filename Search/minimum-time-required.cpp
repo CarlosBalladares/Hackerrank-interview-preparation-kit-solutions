@@ -3,11 +3,18 @@
 using namespace std;
 
 vector<string> split_string(string);
+long compute_time_rec(vector<long> machines, long production_goal, long min_days, long max_days);
+
 // Hackerrank minimum time required Solution
 // Runs in O( nlog(m) ) where n is number of machines
 // and m is the production goal.
 // bounded by the implementation of sort
 // ======== SOLUTION ========
+long minTime(vector<long> machines, long goal) {
+    sort(machines.begin(), machines.end());
+    return compute_time_rec(machines, goal, 1, machines.back()*goal);
+}
+
 long compute_time_rec(vector<long> machines, long production_goal, long min_days, long max_days){
     if(machines.size()==1)
         return max_days;
@@ -28,13 +35,34 @@ long compute_time_rec(vector<long> machines, long production_goal, long min_days
 }
 
 
-long minTime(vector<long> machines, long goal) {
+
+
+// ======== BONUS  ========
+// Fixed stack recursive solution
+long compute_time_iter(vector<long> machines, long production_goal, long min_days, long max_days){
+    if(machines.size()==1) return max_days;
     
-    sort(machines.begin(), machines.end());
-    return compute_time_rec(machines, goal, 1, machines.back()*goal);
+    long mid;
+    long production;
     
+    while(min_days != max_days){
+
+        mid = ( min_days + max_days )/2;
+        production = 0;
+
+        for(int i =0; i< machines.size();i++)
+            production+=floor(mid/machines[i]);
+
+        if(production >= production_goal)
+            max_days = mid;
+        else
+            min_days = mid+1;
+    }
+    
+    return min_days;
 }
 
+// ======== I/O handling =========
 int main()
 {
     int n;
