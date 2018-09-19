@@ -3,7 +3,10 @@
 using namespace std;
 
 vector<string> split_string(string);
-
+// Hackerrank minimum time required Solution
+// Runs in O( log ( max( machines[i] ) * goal ) )
+// bounded by the implementation of sort
+// ======== SOLUTION ========
 long compute_time_rec(vector<long> machines, long production_goal, long min_days, long max_days){
     if(machines.size()==1)
         return max_days;

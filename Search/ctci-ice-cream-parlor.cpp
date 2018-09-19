@@ -7,8 +7,6 @@ const int PRICE = 1;
 static bool sortFn(vector<int> a, vector<int> b){return a[PRICE] < b[PRICE];};
 vector<string> split_string(string);
 
-// Complete the whatFlavors function below.
-
 
 // Hackerrank Ice cream parlor Solution
 // Runs in O( nlogn )  
