@@ -5,8 +5,8 @@
 # Hackerrank interview prep kit solutions with explanations, see below
 Solutions to Hackerrank's interview preparation kit.
 
-# Detailed Explanations
-These are the problems for which I have written detailed explanations. I usually write these right after solving the problem. If you still have questions open an issue or send me an email.Before reading the explanations make sure to understand the problems. When writting these I assume that the reader will be very familiar with the context. Remember to leave a star if you find this useful!
+# Explanations and notes
+These are the problems for which I have written detailed explanations. I usually write these right after solving the problem. If you still have questions open an issue or send me an email. Before reading the explanations make sure to understand the problems. When writting these I assume that the reader will be very familiar with the context. Remember to leave a star if you find this useful!
 
 ## Dictionaries and hashmaps
 [Ransom Note Explanation](https://medium.com/carlosbf/hash-tables-ransom-note-solution-76ffe7b4d010)
