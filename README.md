@@ -43,7 +43,7 @@ These are the problems for which I have written detailed explanations. I usually
 
  [Pairs explanation](https://medium.com/carlosbf/pairs-solution-998f6d03c25d)
 
- [Triple sum explanation](https://medium.com/carlosbf/triple-sum-solution-af1f9bfc00f6)\
+ [Triple sum explanation](https://medium.com/carlosbf/triple-sum-solution-af1f9bfc00f6)
 
  [Minimum time required explanation](https://medium.com/carlosbf/minimum-time-required-solution-4f9397875d10)
 
