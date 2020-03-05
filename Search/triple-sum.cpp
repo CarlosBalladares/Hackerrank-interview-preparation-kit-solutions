@@ -22,6 +22,8 @@ long triplets(vector<int> a, vector<int> b, vector<int> c) {
     long sol = 0;
     
     while(i < b.size()){
+        j=0;
+        k=0;
         while(a[j]<=b[i] && j<a.size())
             j++;
         while(c[k]<=b[i] && k<c.size())
